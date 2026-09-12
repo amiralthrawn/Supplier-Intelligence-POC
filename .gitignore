@@ -1,0 +1,17 @@
+supplier_env/
+__pycache__/
+.vscode/
+
+# Ignorer l'environnement Python
+supplier_env/
+
+# Ignorer les caches Python
+__pycache__/
+*.pyc
+
+# Ignorer VS Code
+.vscode/
+
+# Ignorer les fichiers système
+.DS_Store
+Thumbs.db
